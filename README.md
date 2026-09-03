@@ -1,4 +1,4 @@
-<img src="https://readme-svg-typing-generator.vercel.app/api?lines=ROBOTICS%20%2F%20COMPUTER%20VISION%20%2F%20PHYSICAL%20AI&animation=glitch&color=36BCF7&size=24&width=800&height=70" />
+<img src="./header.svg" width="100%" />
 <h3>Hey, @phuwcc here 👋</h3>
 
 <p>
