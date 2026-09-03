@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=70&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=45&section=header)
 <h3>Hey, @phuwcc here 👋</h3>
 
 <p>
