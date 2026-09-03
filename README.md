@@ -1,6 +1,6 @@
-<h1 align="center">Hey, @phuwcc here 👋</h1>
+<h3>Hey, @phuwcc here 👋</h3>
 
-<p align="center">
+<p>
   <b>Robotics • Computer Vision • Physical AI • Simulation</b>
 </p>
 
@@ -54,6 +54,7 @@ robot manipulation, simulation, and learning-based robotics</b>.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuc-dinh-van-58a284291/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=nKX07A4AAAAJ&hl=en)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dvanphuc2005@gmail.com)
-
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-6945-4756)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/phuwcc)
 </div>
 
