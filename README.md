@@ -52,7 +52,6 @@ robot manipulation, simulation, and learning-based robotics</b>.
 <div align="center">
 
 [![CV](https://img.shields.io/badge/CV-black?style=flat-square&logo=read.cv&logoColor=white)](YOUR_CV_LINK)
-![footer](https://capsule-render.vercel.app/api?type=slice&color=0:2C5364,100:0F2027&height=80&section=footer)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/phuc-dinh-van-58a284291/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=nKX07A4AAAAJ&hl=en)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dvanphuc2005@gmail.com)
