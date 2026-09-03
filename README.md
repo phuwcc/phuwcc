@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:0F2027,100:2C5364&height=80&section=header)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=120&section=header&text=PHUC&fontSize=50&fontColor=ffffff&animation=twinkling)
 <h3>Hey, @phuwcc here 👋</h3>
 
 <p>
@@ -59,4 +59,3 @@ robot manipulation, simulation, and learning-based robotics</b>.
 [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-6945-4756)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/phuwcc)
 </div>
-
